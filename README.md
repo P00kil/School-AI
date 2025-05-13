@@ -1,4 +1,4 @@
-𝗦𝗰𝗵𝗼𝗼𝗹-𝗔𝗜
+𝗦𝗰𝗵𝗼𝗼𝗹-𝗔𝗜 ✨
 
 School-AI ist ein Kurzbefehl, um den Schulaltag mit KI zu erleichtern.
 Es kann aufgaben Automatisch von z.B. der Tafel lösen nur anhand eines Bildes.
