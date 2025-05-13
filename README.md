@@ -9,11 +9,11 @@ Du kannst auch ganz einfach im Chat-Modus blitzschnell mit der KI kommunizieren 
 
 Installationsanleitung:
 
-Installiere den Setup-Kurzbefehl und folge den Anweisungen.
-Dabei werden zwei Kurzbefehle eingerichtet.
+- Installiere den Setup-Kurzbefehl und folge den Anweisungen.
+  Dabei werden zwei Kurzbefehle eingerichtet.
 
 ⸻
 
 Verwendung:
 
-Führe einfach den installierten Kurzbefehl “School-AI” aus.
+- Führe einfach den installierten Kurzbefehl “School-AI” aus.
