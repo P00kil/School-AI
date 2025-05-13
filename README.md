@@ -9,7 +9,7 @@ Du kannst auch ganz einfach im Chat-Modus blitzschnell mit der KI kommunizieren 
 
 Installationsanleitung:
 
-- Installiere den Setup-Kurzbefehl und folge den Anweisungen.
+- Installiere den Setup-Kurzbefehl und folge den Anweisungen. (https://www.icloud.com/shortcuts/bc551357a4f24819851bb6ad846f63b9)
   Dabei werden zwei Kurzbefehle eingerichtet.
 
 ⸻
