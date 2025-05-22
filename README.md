@@ -18,3 +18,7 @@ Installationsanleitung:
 Verwendung:
 
 - Führe einfach den installierten Kurzbefehl “School-AI” aus.
+
+⸻
+
+Umgesetzt mit Gemini Flash
