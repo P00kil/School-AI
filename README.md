@@ -10,7 +10,7 @@ Du kannst auch ganz einfach im Chat-Modus blitzschnell mit der KI kommunizieren 
 Installationsanleitung:
 
 - Installiere den Setup-Kurzbefehl und folge den Anweisungen.
-  School-AI V2.0 (https://www.icloud.com/shortcuts/6240d0be118844bfb70190eac7cd5f53)
+  School-AI V2.0 (https://www.icloud.com/shortcuts/738d990670874bd79f6a21af5dfd43ab)
 - Dabei werden zwei Kurzbefehle eingerichtet.
 
 ⸻
